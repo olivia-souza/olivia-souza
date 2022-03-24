@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Olívia Souza
+Estudante da Fatec de Mogi das Cruzes
 
 <div align="center">
   <a href="https://github.com/olivia-souza">
