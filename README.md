@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Olívia Souza
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/olivia-souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivia-souza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-souza&layout=compact&langs_count=7&theme=cobalt"/>
@@ -9,7 +9,7 @@
   <img align="center" alt="olivia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="olivia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="olivia-java" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="right" alt="olivia-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/bf7fead3404b692f955d3c0d113db6f9.gif"/> 
+  <img align="right" alt="olivia-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/bf7fead3404b692f955d3c0d113db6f9.gif"/> 
 </div>
 
   ##
