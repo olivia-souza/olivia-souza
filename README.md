@@ -2,7 +2,7 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/olivia-souza">
-  <img height="1200em" src="https://github-readme-stats.vercel.app/api?username=olivia-souza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=olivia-souza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-souza&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <div style="display: inline_block"><br>
